@@ -4,6 +4,7 @@
 // to keep its options open.  You can change the setting for SHOW_COUNT to see
 // how many options are still left on each turn.
 
+// add to document folder as well
 import java.util.*;
 import java.io.*;
 
@@ -118,4 +119,5 @@ public class HangmanMain  {
         }
     }
 }
+
 
